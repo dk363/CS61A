@@ -1,0 +1,3 @@
+'eval_and-correct', (0, 70)
+'floor_div-correct', (512, 70)
+'eval_define-correct', (1024, 70)

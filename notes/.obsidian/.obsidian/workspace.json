@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "0e23acedd70a333c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c43cf8332d56da3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44092faf2cd78b68",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250324180117.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250324180117"
+            }
+          },
+          {
+            "id": "27b38bd49c3ecc19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays.length.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arrays.length"
+            }
+          },
+          {
+            "id": "fb249c86f13091e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random Numbers"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c108d641f977b366",
+    "type": "split",
+    "children": [
+      {
+        "id": "460396811463ed46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5005bbc67f8aebf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6163b60315efd769",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "993ee5993fb4eaf4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1d88a7d6b294fffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ca17aa32a1ef555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77e997856803229c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前后双下划线.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "前后双下划线 的反向链接列表"
+            }
+          },
+          {
+            "id": "5c7c3251da25e9fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前后双下划线.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "前后双下划线 的出链列表"
+            }
+          },
+          {
+            "id": "801f6e09b084b10f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bec6db342883e446",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前后双下划线.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "前后双下划线 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fb249c86f13091e7",
+  "lastOpenFiles": [
+    "Arrays.length.md",
+    "Random Numbers.md",
+    "Pasted image 20250324180117.png",
+    "前后双下划线.md",
+    "EFFICIENCE.md",
+    "Incremectal Development.md"
+  ]
+}

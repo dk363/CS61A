@@ -1,0 +1,7 @@
+#! /bin/bash
+marco(){
+	dir=$(pwd)
+}
+polo(){
+	cd "$dir"
+}
